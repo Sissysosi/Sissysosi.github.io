@@ -8,7 +8,7 @@ import HelloWorld from './components/HelloWorld.vue'
 <div class="flex items-center justify-center mt-5">
 <div class="bg-blue-900 w-1/8 p-10 h-auto">
 <div class="flex items-center justify-center mb-10">
-		 <img src="./assets/linas.jpeg" class="object-contain h-48 w-96 rounded-lg " alt="">
+		 <img src="./assets/akmilinaa.png" class="object-contain h-48 w-96 rounded-lg " alt="">
 		</div>
  <div class="bg-orange-900 w-1/8 p-10 h-auto rounded-lg">
      <h1 class="text-gray-400 uppercase tracking-widest text-lg font-bold">Personal Details</h1>
